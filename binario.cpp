@@ -1,14 +1,13 @@
-// #!/usr/bin/env python3.8
-// NAME:				Binario
-// VERSION:			    0.3
-// DESCRIPTION:			Conversao base 10 para binario  
-// DATE OF CREATION:	20/08/2020
-// LAST RELEASE			20/08/2020
-// WRITTEN BY:			KARAN LUCIANO SILVA
-// E-MAIL:				karanluciano1@gmail.com			
-// DISTRO:				ARCH LINUX
-// LICENSE:			    GPLv3 			
-// PROJECT:			    https://github.com/lkaranl/Inducao
+// NAME: Binario
+// VERSION: 0.1
+// DESCRIPTION: Conversao base 10 para binario  
+// DATE OF CREATION:20/08/2020
+// LAST RELEASE: 20/08/2020
+// WRITTEN BY: KARAN LUCIANO SILVA
+// E-MAIL: karanluciano1@gmail.com			
+// DISTRO: ARCH LINUX
+// LICENSE: GPLv3 			
+// PROJECT: https://github.com/lkaranl/Inducao
 
 #include <iostream>
 using namespace std;
