@@ -148,3 +148,4 @@ class Gauss():
 if __name__ == "__main__":
     os.system("clear")
     Gauss().main()
+#bora passar
