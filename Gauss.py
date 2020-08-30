@@ -9,6 +9,8 @@
 #LICENSE: GPLv3 			
 #PROJECT: https://github.com/lkaranl/
 
+#teste
+
 # EXEMPLO 
 # 10x + 2y + z = 7
 # x + 5y + z = -8
